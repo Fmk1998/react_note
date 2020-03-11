@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12baac3d-4a1a-48eb-94db-463fdd49fde5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yvuem8NA3EuYN8P72lPoOqtsTl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\webstrom\react_test\react_app\src\components\app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\webstrom\react_test\react_app\public" />
+      <recent name="E:\webstrom\react_test\react_app\public\css" />
+      <recent name="E:\webstrom\react_test\react_app\src\components" />
+      <recent name="E:\webstrom\react_test\react_app" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12baac3d-4a1a-48eb-94db-463fdd49fde5" name="Default Changelist" comment="" />
+      <created>1583835486548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583835486548</updated>
+      <workItem from="1583835489082" duration="385000" />
+      <workItem from="1583838734869" duration="2472000" />
+      <workItem from="1583900563739" duration="8247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="536" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583901099165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="536" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583901099165" />
+    <state x="308" y="62" key="SettingsEditor" timestamp="1583839922853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="308" y="62" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583839922853" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1583903372283">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1583903372283" />
+    <state x="461" y="190" key="run.anything.popup" timestamp="1583913024542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583913024542" />
+  </component>
+</project>
