@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12baac3d-4a1a-48eb-94db-463fdd49fde5" name="Default Changelist" comment="" />
+    <list default="true" id="12baac3d-4a1a-48eb-94db-463fdd49fde5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/users_page/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/users_page/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/users_page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-comment/components/app/app.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-comment/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/main/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/search/search.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/app/app.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/comment-add/comment-add.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src-comment/components/comment-add/comment-add.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/comment-item/comment-item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src-comment/components/comment-item/comment-item.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/comment-item/commentItem.css" beforeDir="false" afterPath="$PROJECT_DIR$/src-comment/components/comment-item/commentItem.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/comment-list/comment-list.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src-comment/components/comment-list/comment-list.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/comment-list/commentList.css" beforeDir="false" afterPath="$PROJECT_DIR$/src-comment/components/comment-list/commentList.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,16 +35,29 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Yvuem8NA3EuYN8P72lPoOqtsTl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -32,14 +65,15 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\webstrom\react_test\react_app\src\components\app" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\webstrom\react_test\react_app\src" />
+      <recent name="E:\webstrom\react_test\react_app" />
       <recent name="E:\webstrom\react_test\react_app\public" />
       <recent name="E:\webstrom\react_test\react_app\public\css" />
       <recent name="E:\webstrom\react_test\react_app\src\components" />
-      <recent name="E:\webstrom\react_test\react_app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\webstrom\react_test\react_app\src\components\app" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -55,11 +89,16 @@
       <workItem from="1583835489082" duration="385000" />
       <workItem from="1583838734869" duration="2472000" />
       <workItem from="1583900563739" duration="8247000" />
+      <workItem from="1583913994456" duration="7341000" />
+      <workItem from="1583986374888" duration="913000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="536" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583901099165">
@@ -74,9 +113,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1583903372283" />
-    <state x="461" y="190" key="run.anything.popup" timestamp="1583913024542">
+    <state x="461" y="190" key="run.anything.popup" timestamp="1583920809110">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583913024542" />
+    <state x="461" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583920809110" />
   </component>
 </project>
